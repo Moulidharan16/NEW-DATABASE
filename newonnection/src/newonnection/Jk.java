@@ -23,6 +23,8 @@ public class Jk {
 		
 catch (Exception e)
 		{
+	System.out.println("hello jenkins");
+	
 	System.out.println(e);
 		}
 	}
